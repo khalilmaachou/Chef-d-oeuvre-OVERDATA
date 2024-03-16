@@ -1,0 +1,11 @@
+setuptools
+resampy
+wheel
+
+imblearn
+jams
+PeakUtils
+hydra-core
+
+mir-eval
+librosa==0.9.1
