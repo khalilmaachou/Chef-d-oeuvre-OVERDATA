@@ -14,6 +14,7 @@ Ce projet concerne l'implémentation des modéle de Few-Shot Learning pour la cl
 
 - **PELLEGRINI Thomas** - (thomas.pellegrini@irit.fr) 
 - **MOUYSSET Sandrine** - (sandrine.mouysset@irit.fr)
+- **BENAMARA Farah** - (farah.benamara@irit.fr)
 
 ## Modèle Implémenté
 
