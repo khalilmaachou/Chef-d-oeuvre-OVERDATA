@@ -1,6 +1,6 @@
 # Détection d’évènements sonores par Few-Shot Learning
 
-Ce projet concerne l'implémentation des modéle de Few-Shot Learning pour la classification audio
+Ce projet concerne l'implémentation des modéles de Few-Shot Learning pour la classification audio
 
 ## Auteurs
 
