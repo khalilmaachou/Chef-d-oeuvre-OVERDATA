@@ -32,7 +32,7 @@ path:
 ```
 
 4. Entrainer le modèle avec la configuration par défaut. Le post-traitement et l'évaluation seront executé automatiquement. 
-Avant de lancer le script d'entraînement il faut dupliquer le Development_Set. 
+Avant de lancer le script d'entraînement il faut dupliquer le Development_Set dans le root. 
 ```bash
 # train on CPU
 python train.py trainer.gpus=0
