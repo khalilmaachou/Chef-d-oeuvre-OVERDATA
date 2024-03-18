@@ -40,7 +40,7 @@ python train.py trainer.gpus=0
 # train on GPU
 python train.py trainer.gpus=1
 ```
-Pendant l'entraînement il faut suivre les étapes pour créer un compte sur le site wandb.ai (Weight and Biases) afin de pouvoir visualiser les courbes d'entraînement, de validatation etc. et avoir les logs avec les résultats. 
+Après le lancement du script d'entraînement il faut suivre les étapes pour créer un compte sur le site wandb.ai (Weight and Biases) afin de pouvoir visualiser les courbes d'entraînement, de validatation etc. et avoir les logs avec les résultats. 
 
 
 - Les autres options d'entaînement sont dans le fichier train.yaml. 
